@@ -1,4 +1,4 @@
-[![MasterHead](https://img.tamindir.com/resize/1200x675/2023/01/476730/yazilim-dilleri1.jpg)
+[![MasterHead](https://www.itservtechnology.com/wp-content/uploads/2024/06/Computer-Science-Courses.jpg)
 
 <h1 align="center">Selam 👋, Ben Oktay</h1>
 <h3 align="center">Çorum'da Üniversitede eğitim görmekteyim. Okuduğum bölüm Sosyal Güvenlik. Yazılıma çok fazla merakım var.</h3>
