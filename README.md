@@ -1,4 +1,4 @@
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tamindir.com%2Fblog%2Fyazilim-dilleri_77999%2F&psig=AOvVaw1imhV4PWhyFd2On9g0pSEK&ust=1738882834155000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICJwdHRrYsDFQAAAAAdAAAAABAE
+[![MasterHead](https://img.tamindir.com/resize/1200x675/2023/01/476730/yazilim-dilleri1.jpg)
 
 <h1 align="center">Selam 👋, Ben Oktay</h1>
 <h3 align="center">Çorum'da Üniversitede eğitim görmekteyim. Okuduğum bölüm Sosyal Güvenlik. Yazılıma çok fazla merakım var.</h3>
